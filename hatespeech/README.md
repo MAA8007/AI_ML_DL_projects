@@ -10,9 +10,8 @@ This project focuses on building a classifier for detecting hate speech in tweet
 2. [Requirements](#requirements)
 3. [Dataset](#dataset)
 4. [Data Preprocessing](#data-preprocessing)
-5. [How to Run](#how-to-run)
-6. [Model Architecture](#model-architecture)
-7. [Training and Evaluation](#training-and-evaluation)
+5. [Model Architecture](#model-architecture)
+6. [Training and Evaluation](#training-and-evaluation)
 
 ## Requirements
 
